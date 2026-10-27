@@ -7,7 +7,14 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Favorite</string>
+	<string>Favorite Places</string>
+	<key>NSCameraUsageDescription</key>
+	<string>The camera is used to take a picture of a place you want to save.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick an existing photo of the place you want to save.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is saved together with the place you add.</string>
+
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
